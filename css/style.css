@@ -1,0 +1,105 @@
+
+.new{
+    background-color: rgb(248, 243, 243);
+    width: 350px;
+    margin-top: 80px;
+}
+/* .connect{
+    background-color:  rgb(248, 243, 243);
+    margin-top: 30px;
+} */
+.acceuil{
+    background-color:  rgb(248, 243, 243);
+    margin-top: 30px;
+}
+
+/* .news{
+    width: 75px;
+    background-color: red;
+    margin-left: 30px;
+    margin-top: 20px;  */
+}
+.border{
+    border: 2px solid black;
+}
+.date{
+    color: red;
+}
+.devise{
+    background-color:  rgb(248, 243, 243);
+     width: 40%;
+    margin-top: 30px; 
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    margin: 40px;
+    
+
+} 
+.calculatrice{
+    width: 25%;
+    margin-top: 50px;
+}
+
+.logo{
+    background-color: black;
+    width: 25%;
+    height: 200px;
+    margin-top: 50px;
+}
+.drap{
+    width: 50px;
+    height: 50px;
+}
+.centre{
+    display: flex;
+    gap: 20px;
+}
+.texte{
+    font-size: 12px;
+    color: white;
+}
+.pop{
+    width: 150px;
+    height: 60px;
+}
+.face{
+    width: 50px;
+    height: 50px;
+}
+.ecrit{
+    font-size: 15px;
+    color: white;
+}
+.kk{
+    display: flex;
+}
+.nouveau{
+    background-color: red;
+    width: 70px;
+    height: 40px;
+}
+.avenir{
+    width: 400px;
+    height: 50px;
+}
+.SG{
+    font-size: 25px;
+    color: black;
+
+}
+.section1{
+    display: flex;
+    gap: 80px;
+}
+.gran{
+    background-color: wheat;
+    width: 200px;
+    height: 50px;
+}
+.lock{
+    width: 20px;
+    height: 20px;
+}
